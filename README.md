@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm ysmb-wtsg
 
-Neovim Plugin Developer
+I'm on Momoshima Island, Hiroshima, Japan
 
 <p align="left">
   <a href="https://github.com/ysmb-wtsg"><img height="20" src="https://img.shields.io/github/followers/ysmb-wtsg?label=follow&logo=github&style=flat" /></a>
